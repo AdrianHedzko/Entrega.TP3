@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+nav {
+    background:linear-gradient(to left, #d15e00,#ff7d00);
+
+}
+header{
+    background-color: #f8a55763;
+}
+#parte-1{
+    background-color: #f7caa0a2;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+#carta-1{
+    background-color: #ffab5c;
+    
+}
+#carta-2{
+    background-color: #ffab5c;
+}
+#carta-3{
+    background-color: #ffab5c;
+}
+
+#boton{
+    background-color: #f57621;
+}
+#boton:hover {
+    background-color: #883505;
+    color: #eaeaea;
+}
+#icono{
+    color: #f57621;
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+}
+
+footer{
+    background-color: #d15e00;
+
+}
